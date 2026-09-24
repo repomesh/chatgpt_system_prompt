@@ -45,4 +45,10 @@ If you find these prompts helpful, please give me a **Star**. I sincerely apprec
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LouisShark/ChatGPT_system_prompt&type=Date)](https://www.star-history.com/#LouisShark/ChatGPT_system_prompt&Date)
+<a href="https://www.star-history.com/?type=date&repos=LouisShark%2FChatGPT_system_prompt">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=LouisShark/ChatGPT_system_prompt&type=date&theme=dark&legend=top-left&sealed_token=b9O_FCfycpgFRYv6B442chV9mNmxlnKKRMvrvZWSqD5l9I5FKO95sFcOZbzCPnPqRFPcapCuYrpoBSzpFfAk7WOOlDcA7pfVgw-AReHH8hwAZqhFHT394CTvY81D-21plcqNfSLUdtkZHIFPT6U1Jb6EZutRYn4VDt8_6STTK67-d8JDVBUgGqzVoQ9x" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=LouisShark/ChatGPT_system_prompt&type=date&legend=top-left&sealed_token=b9O_FCfycpgFRYv6B442chV9mNmxlnKKRMvrvZWSqD5l9I5FKO95sFcOZbzCPnPqRFPcapCuYrpoBSzpFfAk7WOOlDcA7pfVgw-AReHH8hwAZqhFHT394CTvY81D-21plcqNfSLUdtkZHIFPT6U1Jb6EZutRYn4VDt8_6STTK67-d8JDVBUgGqzVoQ9x" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=LouisShark/ChatGPT_system_prompt&type=date&legend=top-left&sealed_token=b9O_FCfycpgFRYv6B442chV9mNmxlnKKRMvrvZWSqD5l9I5FKO95sFcOZbzCPnPqRFPcapCuYrpoBSzpFfAk7WOOlDcA7pfVgw-AReHH8hwAZqhFHT394CTvY81D-21plcqNfSLUdtkZHIFPT6U1Jb6EZutRYn4VDt8_6STTK67-d8JDVBUgGqzVoQ9x" />
+ </picture>
+</a>
